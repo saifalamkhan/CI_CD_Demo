@@ -5,13 +5,9 @@ on:
   push:
     branches:
       - test
-    paths:
-      - 'force-app/**'
   pull_request:
     branches:
       - test
-    paths:
-      - 'force-app/**'
   # Also trigger on page_build, as well as release created events
 
 jobs:
