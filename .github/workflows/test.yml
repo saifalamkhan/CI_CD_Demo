@@ -6,12 +6,12 @@ on:
     branches:
       - test
     paths:
-      - 'src/force-app/**'
+      - 'force-app/**'
   pull_request:
     branches:
       - test
     paths:
-      - 'src/force-app/**'
+      - 'force-app/**'
   # Also trigger on page_build, as well as release created events
 
 jobs:
