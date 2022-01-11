@@ -1,0 +1,65 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI_SKDEV2
+
+# Controls when the workflow will run
+# Trigger the workflow on push or pull request,
+  # but only for the main branch
+on:
+  push:
+    branches:
+      - test
+    paths:
+      - 'src/force-app/**'
+  pull_request:
+    branches:
+      - test
+    paths:
+      - 'src/force-app/**'
+  # Also trigger on page_build, as well as release created events
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.ref }}
+        fetch-depth: 0
+      if: github.event.action == 'opened' || github.event.action == 'synchronize' || github.event_name == 'push'
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '>=14'
+        check-latest: true
+   
+    - name: Install Salesforce CLI
+      run: |
+        npm install sfdx-cli
+        node_modules/sfdx-cli/bin/run --version
+        node_modules/sfdx-cli/bin/run plugins --core
+   
+   # - name: 'Populate auth file with SFDX_URL secret'
+   #   shell: bash
+   #   run: 'echo ${{ secrets.SFDX_LR_TEST_URL}} > SFDX_QA'
+   
+   # - name: 'Authenticate against dev hub'
+   #   run: node_modules/sfdx-cli/bin/run force:auth:sfdxurl:store -f SFDX_QA -s -a LRQA
+      
+    - name: 'Authenticate SKdev'
+      run: |
+        echo "${SALESFORCE_JWT_SECRET_KEY}" > server.key
+        node_modules/sfdx-cli/bin/run force:auth:jwt:grant --clientid ${{ secrets.SALESFORCE_CONSUMER_KEY }} --jwtkeyfile server.key --username ${{ secrets.SALESFORCE_DEVHUB_USERNAME}} -a skdev --instanceurl https://test.salesforce.com 
+      env:
+        SALESFORCE_JWT_SECRET_KEY: ${{ secrets.SALESFORCE_JWT_SECRET_KEY }}        
+
+   
+        
+   # - name: Run Apex test
+   #   run: 
+   #     node_modules/sfdx-cli/bin/run force:apex:test:run --resultformat tap --codecoverage -c -r human
+        
+    - name: Validate source
+      id: Validate
+      if: github.event_name == 'push'
+      run:
+        node_modules/sfdx-cli/bin/run force:source:deploy -x force-app/main/default/package.xml -u skdev --json --loglevel fatal -c
