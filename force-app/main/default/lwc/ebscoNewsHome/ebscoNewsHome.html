@@ -1,0 +1,12 @@
+<template>
+    <template if:true={customSettingsMap}>
+        <span class="title">{label.news}</span>
+        <div class="services">
+            <a href={customSettingsMap.Home_News_Label1.URL__c} target="_blank">{label.homeNewsLabel1}</a>
+            <a href={customSettingsMap.Home_News_Label2.URL__c} target="_blank">{label.homeNewsLabel2}</a>
+            <a href={customSettingsMap.Home_News_Label3.URL__c} target="_blank">{label.homeNewsLabel3}</a>
+            <a href={customSettingsMap.Home_News_Label4.URL__c} target="_blank">{label.homeNewsLabel4}</a>
+        </div>
+        <a class="viewAll" href={customSettingsMap.Home_News_View_All.URL__c} target="_blank">{label.homeNewsViewAll}</a>
+    </template>
+</template>

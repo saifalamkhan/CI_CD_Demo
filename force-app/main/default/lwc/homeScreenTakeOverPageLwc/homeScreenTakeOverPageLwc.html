@@ -1,0 +1,78 @@
+<template>
+     <!--Use "slds-m-around_xx-large" class to add standard X-Large padding to the component--> 
+     <div class="slds-m-around_x-large">   
+        <template if:true={isOpen}>    
+            <!--###### MODAL BOX Start######--> 
+            <section role="dialog" tabindex="-1" aria-labelledby="modal-heading-01" aria-modal="true" aria-describedby="modal-content-id-1" class="slds-modal slds-fade-in-open">
+                <div class="slds-modal__container">
+                    <div class="slds-modal__header">
+                        <lightning-button-icon icon-name="utility:close"
+                                               variant="bare"
+                                               onclick={closeModel}
+                                               size="large"
+                                               alternative-text="close"
+                                               class="slds-modal__close slds-button__icon_large">
+                        </lightning-button-icon>
+                    </div>
+                    <!--###### MODAL BOX BODY Part Start######-->
+                    <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
+                        <lightning-layout multiple-rows="true">
+                        <lightning-layout-item size="12" class="slds-p-horizontal_medium">
+                            <div class="header">{label.homePageWelcomeNote}</div>
+                            <div class="bodycontent">
+                                <div class="headercontent">{label.homePagePopupHeader1}</div>    
+                            </div>
+                        </lightning-layout-item>
+                        <lightning-layout-item size="12"  class="controllingFieldWrap slds-p-around_medium slds-p-bottom_none slds-p-top_none">   
+                        <label class="slds-form-element__label marketLabel">Market <span>*</span></label>
+                            <lightning-combobox
+                                name="controllerFld"
+                                id="controllingFiel"
+                                value={objDetail.Market__c}
+                                onchange={onControllerFieldChange}
+                                options={listControllingValues} class="combobox_margin">
+                            </lightning-combobox>
+                            <div class="slds-form-element__help slds-hide" data-id="errorControl">{label.homePagePopupErrorMessage}</div>
+                        </lightning-layout-item>
+                        <!--Dependent Field-->
+                        <lightning-layout-item size="12" padding="around-medium">
+                            <label class="slds-form-element__label">Job Role<span>*</span></label>
+                            <lightning-combobox
+                                name="dependentFld" variant = "label-hidden"
+                                id="controllingField"
+                                value={objDetail.Job_Role__c}
+                                disabled={bDisabledDependentFld}
+                                onchange={dependentFieldChange}
+                                options={listDependingValues}>
+                            </lightning-combobox>
+                            <div class="slds-form-element__help slds-hide" data-id="errorDependent">{label.homePagePopupErrorMessage}</div>       
+                        </lightning-layout-item>
+                        <lightning-layout-item size="12" padding="around-medium" style="padding:0px"><hr class="slds-m-around_none"></hr></lightning-layout-item>
+                        <lightning-layout-item size="12" padding="around-medium"> 
+                            <div class="supportSection">
+                                <div>{label.homePagePopupHeader2}</div>
+                                <table>
+                                    <template for:each={preferences} for:item='wrap'>
+                                        <tr key={wrap.value}>
+                                            <td class="slds-p-top_small">
+                                                <lightning-input class='test' type="checkbox" value={wrap.value}></lightning-input>
+                                            </td>
+                                            <td class="slds-p-top_small">
+                                                <span class="checkBox_label">{wrap.label}</span>
+                                            </td>
+                                        </tr>
+                                    </template>
+                                </table> 
+                            </div>
+                        </lightning-layout-item>
+                         <lightning-layout-item size="12" padding="around-medium">
+                             <button  class="slds-button slds-button--neutral submit slds-button_stretch uiButton" onclick={savePreferencs}>Submit</button>
+                        </lightning-layout-item>
+                    </lightning-layout>
+                    </div>       
+                </div>
+            </section>
+            <div class="slds-backdrop slds-backdrop_open"></div>
+    </template>
+    </div>
+</template>

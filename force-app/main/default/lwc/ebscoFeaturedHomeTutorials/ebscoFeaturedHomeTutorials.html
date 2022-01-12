@@ -1,0 +1,15 @@
+<template>
+    <template if:true={customSettingsMap}>
+        <span class="title">{label.featuredTutorialTitle}</span>
+        <div class="services">
+            <a href={customSettingsMap.Home_Featured_Tutorials_label1.URL__c}
+                target="_blank">{label.homefeaturedLabel1}</a>
+            <a href={customSettingsMap.Home_Featured_Tutorials_label2.URL__c}
+                target="_blank">{label.homefeaturedLabel2}</a>
+            <a href={customSettingsMap.Home_Featured_Tutorials_label3.URL__c}
+                target="_blank">{label.homefeaturedLabel3}</a>
+        </div>
+        <a class="browseAll" href={customSettingsMap.Home_Featured_Tutorials_Browse_all.URL__c}
+            target="_blank">{label.browseAllTutorials}</a>
+    </template>
+</template>

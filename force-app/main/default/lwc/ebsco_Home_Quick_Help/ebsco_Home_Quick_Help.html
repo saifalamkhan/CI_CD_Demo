@@ -1,0 +1,24 @@
+<template>
+    <div class="slds-grid slds-wrap quick-help">
+        <template if:true={customSettingsMap}>
+            <div class="tutorials quick-help-section slds-col slds-size_1-of-1 slds-large-size_6-of-12">
+                <span class="title">{label.needQuickHelp}</span>
+                <div class="services">
+                    <a href={customSettingsMap.Home_Quick_Help_Label1.URL__c}
+                        target="_blank">{label.quickHelpLabel1}</a>
+                    <a href={customSettingsMap.Home_Quick_Help_Label2.URL__c}
+                        target="_blank">{label.quickHelpLabel2}</a>
+                    <a href={customSettingsMap.Home_Quick_Help_Label3.URL__c}
+                        target="_blank">{label.quickHelpLabel3}</a>
+                    <a href={customSettingsMap.Home_Quick_Help_Label4.URL__c}
+                        target="_blank">{label.quickHelpLabel4}</a>
+                    <a href={customSettingsMap.Home_Quick_Help_Label5.URL__c}
+                        target="_blank">{label.quickHelpLabel5}</a>
+                </div>
+            </div>
+        </template>
+        <div class="tutorials news-section slds-col slds-size_1-of-1 slds-large-size_6-of-12">
+            <c-ebsco-news-home custom-settings-map={customSettingsMap}></c-ebsco-news-home>
+        </div>
+    </div>
+</template>

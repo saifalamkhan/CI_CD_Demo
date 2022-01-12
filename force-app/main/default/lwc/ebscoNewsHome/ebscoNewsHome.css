@@ -1,0 +1,33 @@
+.title {
+	font-size: 24px;
+    line-height: 36px;
+    margin-left: 10px;  
+}
+
+.services{
+    padding: 12px 20px 20px 10px;
+    min-height: 170px;
+    border-top:1px solid rgb(68, 95, 135);
+    margin-top: 10px;
+}
+.services a:hover, .services a:focus{
+    color:  #1D3F75;
+}
+.services a{
+    font-size: 16px;
+    line-height: 27px;
+	color: rgb(45, 98, 183);
+	padding: 7px 0;
+	display: block;
+	font-weight: 700;
+    font-family: 'Noto Sans Bold';
+}
+
+.viewAll{
+    margin-left: 10px;  
+    font-size: 16px !important;
+    color: rgb(68, 95, 135) !important;
+    padding-bottom: 0px;
+    padding-top: 3px;
+    font-family: 'Noto Sans Bold';
+}
