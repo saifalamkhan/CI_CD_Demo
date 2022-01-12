@@ -1,0 +1,2457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Academy_Description</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Academy Description</shortDescription>
+        <value>Learn more about your EBSCO products and services, or discover new ones, with our recorded trainings, demos and live instructor-led courses. New classes are added every month.</value>
+    </labels>
+    <labels>
+        <fullName>Access_your_recent_videos_and_courses</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Access your recent videos and courses</shortDescription>
+        <value>Access your recent videos and courses.</value>
+    </labels>
+    <labels>
+        <fullName>Activate_Full_Text_Finder</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Activate Full Text Finder</shortDescription>
+        <value>International Support Resources</value>
+    </labels>
+    <labels>
+        <fullName>Additional_Information</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Additional Information</shortDescription>
+        <value>If you wish to provide additional information on this case, please reply via the case within the EBSCO Connect portal. This will ensure your response is received and documented within this case.</value>
+    </labels>
+    <labels>
+        <fullName>All_EBSCO_Products</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>All EBSCO Products</shortDescription>
+        <value>All EBSCO Products</value>
+    </labels>
+    <labels>
+        <fullName>All_Files_Were_Updated_Successfully</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>All_Files_Were_Updated_Successfully</shortDescription>
+        <value>All files were updated successfully.</value>
+    </labels>
+    <labels>
+        <fullName>All_rights_reserved</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>All rights reserved</shortDescription>
+        <value>&amp;copy; 2021 EBSCO Industries, Inc. All rights reserved</value>
+    </labels>
+    <labels>
+        <fullName>Allow_Consortia_Admin_to_view_edit_cases</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Allow Consortia Admin to view/edit cases</shortDescription>
+        <value>Allow Consortia Admin to view/edit cases</value>
+    </labels>
+    <labels>
+        <fullName>App_store</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>App store</shortDescription>
+        <value>App store</value>
+    </labels>
+    <labels>
+        <fullName>Apps_amp</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Apps &amp;amp</shortDescription>
+        <value>Apps &amp;amp; Cloud Services</value>
+    </labels>
+    <labels>
+        <fullName>Apps_amp_Cloud_Services</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Apps &amp;amp; Cloud Services</shortDescription>
+        <value>Enhance Your EBSCO Platform with EBSCO Apps</value>
+    </labels>
+    <labels>
+        <fullName>Area_of_Support_Default_Value</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Area of Support Default Value</shortDescription>
+        <value>- None -</value>
+    </labels>
+    <labels>
+        <fullName>Area_of_Support_Field</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Area of Support Field</shortDescription>
+        <value>Area Of Support</value>
+    </labels>
+    <labels>
+        <fullName>Attachements</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Attachements</shortDescription>
+        <value>Attachements</value>
+    </labels>
+    <labels>
+        <fullName>Attachments</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Attachments</shortDescription>
+        <value>Attachments</value>
+    </labels>
+    <labels>
+        <fullName>BCC</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>BCC</shortDescription>
+        <value>BCC:</value>
+    </labels>
+    <labels>
+        <fullName>BROWSE_ALL_TUTORIALS</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>BROWSE ALL TUTORIALS</shortDescription>
+        <value>BROWSE ALL TUTORIALS</value>
+    </labels>
+    <labels>
+        <fullName>Basic_Searching_on_EBSCOhost</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Basic Searching on EBSCOhost</shortDescription>
+        <value>Basic Searching on EBSCOhost</value>
+    </labels>
+    <labels>
+        <fullName>Browse_All_Documentation</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Browse All Documentation</shortDescription>
+        <value>Browse All Documentation</value>
+    </labels>
+    <labels>
+        <fullName>Browse_collections</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Browse collections</shortDescription>
+        <value>Browse collections</value>
+    </labels>
+    <labels>
+        <fullName>Browse_eLearning_Paths</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Browse eLearning Paths</shortDescription>
+        <value>Browse eLearning Paths</value>
+    </labels>
+    <labels>
+        <fullName>Build_a_Custom_Search_Box</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Build a Custom Search Box</shortDescription>
+        <value>Build a Custom Search Box</value>
+    </labels>
+    <labels>
+        <fullName>Build_a_Direct_URL</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Build a Direct URL</shortDescription>
+        <value>Build a Direct URL</value>
+    </labels>
+    <labels>
+        <fullName>CC</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CC</shortDescription>
+        <value>CC:</value>
+    </labels>
+    <labels>
+        <fullName>CINAHL_or_MEDLINE</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CINAHL or MEDLINE?</shortDescription>
+        <value>How to authorize/reauthorize your personal user account?</value>
+    </labels>
+    <labels>
+        <fullName>Cancel_Button</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Cancel Button</shortDescription>
+        <value>Cancel</value>
+    </labels>
+    <labels>
+        <fullName>CaseCreationLabel</fullName>
+        <categories>Label</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CaseCreationLabel</shortDescription>
+        <value>Add New Case</value>
+    </labels>
+    <labels>
+        <fullName>Case_Description_Field</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Case Description Field</shortDescription>
+        <value>Description</value>
+    </labels>
+    <labels>
+        <fullName>Case_Description_Placeholder</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Case Description Placeholder</shortDescription>
+        <value>Please describe your question/issue</value>
+    </labels>
+    <labels>
+        <fullName>Case_Email_Field</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Case Email Field</shortDescription>
+        <value>Email</value>
+    </labels>
+    <labels>
+        <fullName>Case_For_Email</fullName>
+        <categories>Email to NetSuite</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Case</shortDescription>
+        <value>Case</value>
+    </labels>
+    <labels>
+        <fullName>Case_Message_Detail</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Case Message Detail</shortDescription>
+        <value>Case Message Detail</value>
+    </labels>
+    <labels>
+        <fullName>Case_Message_Title</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Case Message Title</shortDescription>
+        <value>Case Message</value>
+    </labels>
+    <labels>
+        <fullName>Case_Messages_History_Title</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Case Messages History Title</shortDescription>
+        <value>Case Messages History</value>
+    </labels>
+    <labels>
+        <fullName>Case_Subject_Field</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Case Subject Field</shortDescription>
+        <value>Subject</value>
+    </labels>
+    <labels>
+        <fullName>Case_Was_Created</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Case Was Created</shortDescription>
+        <value>Case has been successfully created!</value>
+    </labels>
+    <labels>
+        <fullName>Case_is_FOLIO_impacted</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Case is FOLIO impacted</shortDescription>
+        <value>Is FOLIO impacted?</value>
+    </labels>
+    <labels>
+        <fullName>Close_Button</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Close_Button</shortDescription>
+        <value>Close</value>
+    </labels>
+    <labels>
+        <fullName>Communication_Preferences</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Communication_Preferences</shortDescription>
+        <value>Communication Preferences</value>
+    </labels>
+    <labels>
+        <fullName>Communication_Preferences_Button</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Communication_Preferences_Button</shortDescription>
+        <value>Edit Preferences</value>
+    </labels>
+    <labels>
+        <fullName>Communication_Preferences_Dec</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Communication_Preferences_Dec</shortDescription>
+        <value>Connect with EBSCO on the topics most relevant to you.</value>
+    </labels>
+    <labels>
+        <fullName>CommunityUserAdmin</fullName>
+        <categories>Label</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CommunityUserAdmin</shortDescription>
+        <value>Community User Admin</value>
+    </labels>
+    <labels>
+        <fullName>Community_Groups</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Community Groups</shortDescription>
+        <value>Community Groups</value>
+    </labels>
+    <labels>
+        <fullName>Community_Groups_Button</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Community_Groups_Button</shortDescription>
+        <value>Contribute</value>
+    </labels>
+    <labels>
+        <fullName>Community_Groups_Dec</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Community_Groups_Dec</shortDescription>
+        <value>Join the discussion and see what other customers are saying.</value>
+    </labels>
+    <labels>
+        <fullName>Component_Title</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Component Title</shortDescription>
+        <value>Case Messages</value>
+    </labels>
+    <labels>
+        <fullName>Confirmation</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Confirmation</shortDescription>
+        <value>Confirmation</value>
+    </labels>
+    <labels>
+        <fullName>Connect_Replies_Wide_Address</fullName>
+        <categories>Email to NetSuite</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Connect Replies Wide Address</shortDescription>
+        <value>connectreplies@ebsco.com</value>
+    </labels>
+    <labels>
+        <fullName>ConsortiaHeadInstitution_Is_Able_To_See_Own_Cases</fullName>
+        <categories>Account Information</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Consortia Head Institution is able to see own cases</shortDescription>
+        <value>Now Consortia Head Institution members are able to see Cases of your Institution</value>
+    </labels>
+    <labels>
+        <fullName>ConsortiaHeadInstitution_Is_Not_Able_To_See_Own_Cases</fullName>
+        <categories>Account Information</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Consortia Head Institution is not able to see own cases</shortDescription>
+        <value>Now Consortia Head Institution members aren&apos;t able to see Cases of your Institution</value>
+    </labels>
+    <labels>
+        <fullName>Contact_Customer_Support</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Contact Customer Support</shortDescription>
+        <value>Contact Customer Support</value>
+    </labels>
+    <labels>
+        <fullName>Contact_Customer_Training_Services</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Contact Customer Training Services</shortDescription>
+        <value>Contact Customer Training Services</value>
+    </labels>
+    <labels>
+        <fullName>Contact_Details</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Contact Details</shortDescription>
+        <value>1-800-758-5995 (USA and Canada)&lt;br/&gt;
+1-978-356-6500 (Worldwide), or 00-800-3272-6000 (International Toll Free)&lt;br/&gt;
+EBSCO Academy offers free, instant access to elearning opportunities for your EBSCO products and services. Visit: &lt;a href=&quot;https://connect.ebsco.com/s/academy&quot; Style=&quot;text-decoration: none;color:#3E75CF;font-weight: 700;&quot;&gt;https://connect.ebsco.com/s/academy&lt;/a&gt;&lt;br/&gt;
+To check current system status: &lt;a href=&quot;https://status.ebsco.com/&quot; Style=&quot;text-decoration: none;color:#3E75CF;font-weight: 700;&quot;&gt;https://status.ebsco.com/&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Contact_Support_Form_Occupation_Message</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Contact Support Form Occupation Message</shortDescription>
+        <value>Access to our products and services is only available through a partnership with a purchasing library or organization. As a student, patron, faculty or staff member, contact your local library for assistance.</value>
+    </labels>
+    <labels>
+        <fullName>Contact_Us</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Contact Us</shortDescription>
+        <value>Contact us</value>
+    </labels>
+    <labels>
+        <fullName>Contact_support</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Contact support</shortDescription>
+        <value>Contact support</value>
+    </labels>
+    <labels>
+        <fullName>Copy</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Copy</shortDescription>
+        <value>Copy</value>
+    </labels>
+    <labels>
+        <fullName>Create_Button</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Create Button</shortDescription>
+        <value>Create</value>
+    </labels>
+    <labels>
+        <fullName>Create_Case_Header</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Create_Case_Header</shortDescription>
+        <value>Create a Case</value>
+    </labels>
+    <labels>
+        <fullName>Create_a_Case</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Create a Case</shortDescription>
+        <value>Create a case</value>
+    </labels>
+    <labels>
+        <fullName>CreatedDate</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CreatedDate</shortDescription>
+        <value>Created Date:</value>
+    </labels>
+    <labels>
+        <fullName>Created_By</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Created By</shortDescription>
+        <value>Created By</value>
+    </labels>
+    <labels>
+        <fullName>Created_Case_With_Attachment_Description</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Created_Case_With_Attachment_Description</shortDescription>
+        <value>New case was created with attachment.</value>
+    </labels>
+    <labels>
+        <fullName>Created_Case_With_Attachment_Subject</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Created_Case_With_Attachment</shortDescription>
+        <value>New case was created.</value>
+    </labels>
+    <labels>
+        <fullName>Created_Date</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Created Date</shortDescription>
+        <value>Created Date</value>
+    </labels>
+    <labels>
+        <fullName>Created_With_Following_Values</fullName>
+        <categories>Email to NetSuite</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Created With Following Values</shortDescription>
+        <value>created with following values:</value>
+    </labels>
+    <labels>
+        <fullName>Deactivate_User</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Deactivate User</shortDescription>
+        <value>Deactivate User</value>
+    </labels>
+    <labels>
+        <fullName>Default_Password</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Default Password</shortDescription>
+        <value>Ebsco@123</value>
+    </labels>
+    <labels>
+        <fullName>DelegatedExternalUserProfileName</fullName>
+        <categories>Profile Name</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>DelegatedExternalUserProfileName</shortDescription>
+        <value>Customer Community Plus Login Admin</value>
+    </labels>
+    <labels>
+        <fullName>Design_Refresh_EBSCO</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Design_Refresh_EBSCO</shortDescription>
+        <value>Design Refresh for EBSCOhost and EDS - find out more!</value>
+    </labels>
+    <labels>
+        <fullName>Design_refresh</fullName>
+        <categories>Label</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Design refresh</shortDescription>
+        <value>Google Sign In Now Available</value>
+    </labels>
+    <labels>
+        <fullName>Did_You_Mean_Service</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Did-You-Mean Service</shortDescription>
+        <value>User ID Password Expirations Begin October 1</value>
+    </labels>
+    <labels>
+        <fullName>Direct_URL</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Direct URL Builder</shortDescription>
+        <value>Direct URL Builder</value>
+    </labels>
+    <labels>
+        <fullName>Direct_URL_Builder</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Direct URL Builder</shortDescription>
+        <value>Choose the search parameters to build your URL(s).</value>
+    </labels>
+    <labels>
+        <fullName>Discover_a_Path</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Discover a Path</shortDescription>
+        <value>Discover a Path</value>
+    </labels>
+    <labels>
+        <fullName>Discover_a_Path_Desc</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Discover a Path Desc</shortDescription>
+        <value>Dive deeper with our course series designed to increase your skills.</value>
+    </labels>
+    <labels>
+        <fullName>Do_Not_Reply</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Do Not Reply</shortDescription>
+        <value>&lt;b&gt;Please do not reply to this email.&lt;/b&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Downloading_an_EBSCO_Audiobook</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Downloading an EBSCO Audiobook</shortDescription>
+        <value>Tutorials on EBSCO Interfaces</value>
+    </labels>
+    <labels>
+        <fullName>EBSCOAdminLabel</fullName>
+        <categories>Label</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EBSCOAdminLabel</shortDescription>
+        <value>EBSCOadmin</value>
+    </labels>
+    <labels>
+        <fullName>EBSCONETLabel</fullName>
+        <categories>Label</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EBSCONETLabel</shortDescription>
+        <value>EBSCONET</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Academy</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EBSCO Academy</shortDescription>
+        <value>EBSCO Academy</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Academy_Button</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EBSCO Academy Button</shortDescription>
+        <value>Find courses</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Academy_Dec</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EBSCO Academy Dec</shortDescription>
+        <value>Access courses to learn more about your EBSCO products and services.</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Admin_Self_Service</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EBSCO Admin Self-Service</shortDescription>
+        <value>EBSCOadmin Self-Service</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Admin_Self_Service_Button</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EBSCO Admin Self-Service Button</shortDescription>
+        <value>Learn more</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Admin_Self_Service_Description</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EBSCO Admin Self-Service Description</shortDescription>
+        <value>Our most frequent requests automated for your convenience.</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Connection_Lost_Text_Error</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EBSCO Connection Lost Text Error</shortDescription>
+        <value>Self Service option connection has been lost. Please try again later.</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Customers_and_Site_Administrators</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EBSCO Customers and Site Administrators</shortDescription>
+        <value>EBSCO Customers and Site Administrators</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Discovery_Service</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EBSCO Discovery Service</shortDescription>
+        <value>EBSCO Discovery Service - Improving Your Search Result</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Help</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EBSCO Help</shortDescription>
+        <value>Transitioning to Secure Account Access – Passwords and HTTPS</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_HomeRelativeURL</fullName>
+        <categories>URL</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EBSCO_HomeRelativeURL</shortDescription>
+        <value>/s/</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_InvalidUserNameOrPasswordError</fullName>
+        <categories>Message</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EBSCO_InvalidUserNameOrPasswordError</shortDescription>
+        <value>Your login information is not recognized. Please check that your email address and password are correct and try again.</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Migration_Center</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EBSCO Migration Center</shortDescription>
+        <value>EBSCO Transition Center</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Migration_Center_Complete_Title</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EBSCO Migration Center Complete Title</shortDescription>
+        <value>Completed Transitions</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Migration_Center_Desc</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EBSCO Migration Center Desc</shortDescription>
+        <value>Welcome to the EBSCO Transition Center – these resources will help answer any questions you have about adopting the new UI, walk you through the process, and prepare your team and users for adoption.</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Migration_Center_Desc_Extra</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EBSCO Migration Center Desc Extra</shortDescription>
+        <value>Please note that not all products will be available on the new interface at the same time so you may be migrating different products at different times. The process will be the same for all products/interfaces.</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_New_Banner</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EBSCO New Banner</shortDescription>
+        <value>New -</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Order_Renewals</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EBSCO Order Renewals</shortDescription>
+        <value>Order Renewals</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Order_Renewals_Button</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EBSCO Order Renewals Button</shortDescription>
+        <value>Access EBSCONET</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Order_Renewals_Desc</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EBSCO Order Renewals Desc</shortDescription>
+        <value>Use &lt;i&gt;EBSCONET&lt;/i&gt;&lt;sup&gt; TM&lt;/sup&gt; to approve qualifying database orders - both new and renewals.</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Order_Renewals_Link_Text</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EBSCO Order Renewals Link Text</shortDescription>
+        <value>Learn more</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Order_Renewals_Link_Value</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EBSCO Order Renewals Link Value</shortDescription>
+        <value>https://connect.ebsco.com/s/article/Approving-EBSCO-Database-Orders-using-EBSCONET</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Product_Help</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EBSCO Product Help</shortDescription>
+        <value>EBSCO Product Help</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Product_Help_Updates</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EBSCO Product Help Updates</shortDescription>
+        <value>EBSCO Product Help Updates</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_Self_Service_Option_Is_Unavailable_Text_Error</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EBSCO Self Service Option Is Unavailable Text Error</shortDescription>
+        <value>Self Service option is unavailable. Please try again later.</value>
+    </labels>
+    <labels>
+        <fullName>EBSCO_eBooks_Downloading</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EBSCO eBooks - Downloading</shortDescription>
+        <value>EBSCO eBooks - Downloading</value>
+    </labels>
+    <labels>
+        <fullName>ECMLabel</fullName>
+        <categories>Label</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ECMLabel</shortDescription>
+        <value>ECM</value>
+    </labels>
+    <labels>
+        <fullName>Email_Address</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Email Address</shortDescription>
+        <value>Email Address</value>
+    </labels>
+    <labels>
+        <fullName>Email_Template</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Email Template</shortDescription>
+        <value>Case {0} created with following values:&lt;br/&gt; 
+Institution Name: {1}&lt;br/&gt; 
+First Name: {2}&lt;br/&gt; 
+Last Name: {3}&lt;br/&gt; 
+Email: {4}&lt;br/&gt; 
+Occupation: {5}&lt;br/&gt; 
+Subject: {6}&lt;br/&gt; 
+Description: {7}&lt;br/&gt;
+Preferred Language: {8}&lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Empty_Subject</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Empty Subject</shortDescription>
+        <value>(No Subject)</value>
+    </labels>
+    <labels>
+        <fullName>Feat</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Feat</shortDescription>
+        <value>Feat</value>
+    </labels>
+    <labels>
+        <fullName>Featured_Tutorials</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ured Tutorials</shortDescription>
+        <value>ured Tutorials</value>
+    </labels>
+    <labels>
+        <fullName>Featured_Tutorials_Title</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Featured_Tutorials_Title</shortDescription>
+        <value>Featured Tutorials</value>
+    </labels>
+    <labels>
+        <fullName>Field_Is_Required</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Field Is Required</shortDescription>
+        <value>is required!</value>
+    </labels>
+    <labels>
+        <fullName>Files</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Files</shortDescription>
+        <value>Files</value>
+    </labels>
+    <labels>
+        <fullName>Filter_Institutions_By_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Filter Institutions By Name</shortDescription>
+        <value>Filter Institutions By Name</value>
+    </labels>
+    <labels>
+        <fullName>Find_Instructor_led_Courses</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Find Instructor-led Courses</shortDescription>
+        <value>Find Instructor-led Courses</value>
+    </labels>
+    <labels>
+        <fullName>Find_Instructor_led_Courses_Desc</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Find Instructor-led Courses Desc</shortDescription>
+        <value>Locate a live online course in your region or language or review an archived recording.</value>
+    </labels>
+    <labels>
+        <fullName>Find_upcoming_classes</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Find upcoming classes</shortDescription>
+        <value>Find upcoming classes</value>
+    </labels>
+    <labels>
+        <fullName>First_Name_Field</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>First Name Field</shortDescription>
+        <value>First Name</value>
+    </labels>
+    <labels>
+        <fullName>Forgot_your_Password</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Forgot your Password?</shortDescription>
+        <value>Forgot your Password?</value>
+    </labels>
+    <labels>
+        <fullName>Frequently_Asked_Questions</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Frequently Asked Questions</shortDescription>
+        <value>EBSCO Connect - Frequently Asked Questions</value>
+    </labels>
+    <labels>
+        <fullName>From</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>From</shortDescription>
+        <value>From:</value>
+    </labels>
+    <labels>
+        <fullName>GDPR</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>GDPR</shortDescription>
+        <value>GDPR</value>
+    </labels>
+    <labels>
+        <fullName>GooogleIntegrationNextLevel</fullName>
+        <categories>Label</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>GooogleIntegrationNextLevel</shortDescription>
+        <value>We&apos;re taking Google integration to the next level</value>
+    </labels>
+    <labels>
+        <fullName>Group_Contact_Support</fullName>
+        <categories>Group</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Group Contact Support</shortDescription>
+        <value>Contact Support</value>
+    </labels>
+    <labels>
+        <fullName>Group_Header</fullName>
+        <categories>Groups</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Group Header</shortDescription>
+        <value>EBSCO Connect Groups</value>
+    </labels>
+    <labels>
+        <fullName>Group_Message</fullName>
+        <categories>Groups</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Group Message</shortDescription>
+        <value>Connect with your colleagues to discuss all things related to libraries, technology and research. Expand your knowledge, learn and share ways to improve access to EBSCO products and services, or just get inspired by conversations with your peers. We encourage customers to join EBSCO Connect and participate in our groups.</value>
+    </labels>
+    <labels>
+        <fullName>Group_Sub_Header_2</fullName>
+        <categories>Group</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Group Sub Header 2</shortDescription>
+        <value>with your feedback, we&apos;d love to hear from you!</value>
+    </labels>
+    <labels>
+        <fullName>Group_sub_header</fullName>
+        <categories>Groups</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Group sub header</shortDescription>
+        <value>Have an idea for a new group? Please</value>
+    </labels>
+    <labels>
+        <fullName>Guest_Profile</fullName>
+        <categories>Profiles</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Guest Profile</shortDescription>
+        <value>CXP Portal Profile</value>
+    </labels>
+    <labels>
+        <fullName>Guest_User_Account_Name</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Guest User Account Name</shortDescription>
+        <value>Anonymous EBSCO Connect Customer</value>
+    </labels>
+    <labels>
+        <fullName>Have_a_question</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Have a question</shortDescription>
+        <value>Have a question?</value>
+    </labels>
+    <labels>
+        <fullName>Have_a_question_or_suggestion</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Have a question or suggestion</shortDescription>
+        <value>Have a question or suggestion?</value>
+    </labels>
+    <labels>
+        <fullName>Have_a_suggestion</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Have a suggestion</shortDescription>
+        <value>Have a suggestion for new content or a question about EBSCO Academy? We want to hear from you!</value>
+    </labels>
+    <labels>
+        <fullName>Help_Section_Transition_Additional_Title</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help Section Transition Additional Title</shortDescription>
+        <value>Ready to start? Let us guide you!</value>
+    </labels>
+    <labels>
+        <fullName>Help_Section_Transition_Checklist</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help Section Transition Checklist</shortDescription>
+        <value>Transition Checklist</value>
+    </labels>
+    <labels>
+        <fullName>Help_Section_Transition_FAQs_and_Help</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help Section Transition FAQs and Help</shortDescription>
+        <value>FAQs and Help - New</value>
+    </labels>
+    <labels>
+        <fullName>Help_Section_Transition_First_Link</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help Section Transition First Link</shortDescription>
+        <value>Help article resolving around</value>
+    </labels>
+    <labels>
+        <fullName>Help_Section_Transition_Fourth_Link</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help Section Transition Fourth Link</shortDescription>
+        <value>Video link for the new interface transition</value>
+    </labels>
+    <labels>
+        <fullName>Help_Section_Transition_Overview</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help Section Transition Overview</shortDescription>
+        <value>Transition Overview</value>
+    </labels>
+    <labels>
+        <fullName>Help_Section_Transition_Release_Notes</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help Section Transition Release Notes</shortDescription>
+        <value>Release Notes - New</value>
+    </labels>
+    <labels>
+        <fullName>Help_Section_Transition_Second_Link</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help Section Transition Second Link</shortDescription>
+        <value>Product help article</value>
+    </labels>
+    <labels>
+        <fullName>Help_Section_Transition_Third_Link</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help Section Transition Third Link</shortDescription>
+        <value>Link to an article about the new EDS interface</value>
+    </labels>
+    <labels>
+        <fullName>Help_Section_Transition_Title</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help Section Transition Title</shortDescription>
+        <value>Learn more about the product changes</value>
+    </labels>
+    <labels>
+        <fullName>Help_Section_Transition_Tutorial</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help Section Transition Tutorial</shortDescription>
+        <value>Tutorial - New</value>
+    </labels>
+    <labels>
+        <fullName>Help_Section_Transition_Video</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Help Section Transition Video</shortDescription>
+        <value>Video -</value>
+    </labels>
+    <labels>
+        <fullName>Hide</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Hide</shortDescription>
+        <value>Hide</value>
+    </labels>
+    <labels>
+        <fullName>HomePagePopupErrorMessage</fullName>
+        <categories>HomePagePopup</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>HomePagePopupErrorMessage</shortDescription>
+        <value>Complete this field.</value>
+    </labels>
+    <labels>
+        <fullName>HomePagePopupHeader1</fullName>
+        <categories>HomePagePopup</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>HomePagePopupHeader1</shortDescription>
+        <value>To help us provide appropriate information regarding your account, please answer the following:</value>
+    </labels>
+    <labels>
+        <fullName>HomePagePopupHeader2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>HomePagePopupHeader2</shortDescription>
+        <value>If needed, I should be contacted regarding:</value>
+    </labels>
+    <labels>
+        <fullName>HomePageWelcomeNote</fullName>
+        <categories>HomePagePopup</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>HomePageWelcomeNote</shortDescription>
+        <value>Welcome!</value>
+    </labels>
+    <labels>
+        <fullName>Home_CreateCase</fullName>
+        <categories>Label</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Home_CreateCase</shortDescription>
+        <value>Create Case</value>
+    </labels>
+    <labels>
+        <fullName>Home_Featured_Tutorials_Browse_All_Tutorials</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Home Featured Tutorials Browse All Tutorials</shortDescription>
+        <value>BROWSE ALL TUTORIALS</value>
+    </labels>
+    <labels>
+        <fullName>Home_Featured_Tutorials_Label1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Home Featured Tutorials Label1</shortDescription>
+        <value>EBSCO Discovery Service - Improving Your Search Results</value>
+    </labels>
+    <labels>
+        <fullName>Home_Featured_Tutorials_Label2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Home Featured Tutorials Label2</shortDescription>
+        <value>Basic Searching on EBSCOhost</value>
+    </labels>
+    <labels>
+        <fullName>Home_Featured_Tutorials_Label3</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Home Featured Tutorials Label3</shortDescription>
+        <value>EBSCO eBooks - Downloading</value>
+    </labels>
+    <labels>
+        <fullName>Home_Footer_Privacy_Policy</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Home Footer Privacy Policy</shortDescription>
+        <value>Privacy Policy</value>
+    </labels>
+    <labels>
+        <fullName>Home_HaveAProblem</fullName>
+        <categories>Label</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Home_HaveAProblem</shortDescription>
+        <value>Have a problem?</value>
+    </labels>
+    <labels>
+        <fullName>Home_HaveAProblemMSG</fullName>
+        <categories>Label</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Home_HaveAProblemMSG</shortDescription>
+        <value>By creating a case, your issue will be added to our queue.</value>
+    </labels>
+    <labels>
+        <fullName>Home_KeepTrackForCase</fullName>
+        <categories>Label</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Home_KeepTrackForCase</shortDescription>
+        <value>Keep track of your cases</value>
+    </labels>
+    <labels>
+        <fullName>Home_News_Label1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Home News Label1</shortDescription>
+        <value>Mandatory update to HTTPS Policy 1</value>
+    </labels>
+    <labels>
+        <fullName>Home_News_Label2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Home News Label2</shortDescription>
+        <value>Get Official DSST® Test Prep Materials from EBSCO LearningExpress®</value>
+    </labels>
+    <labels>
+        <fullName>Home_News_Label3</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Home News Label3</shortDescription>
+        <value>Product Help Updates for July 2021</value>
+    </labels>
+    <labels>
+        <fullName>Home_News_Label4</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Home News Label4</shortDescription>
+        <value>Release Notes</value>
+    </labels>
+    <labels>
+        <fullName>Home_News_View_All</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Home News View All</shortDescription>
+        <value>VIEW ALL NEWS</value>
+    </labels>
+    <labels>
+        <fullName>Home_Quick_Help_Label1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Home Quick Help Label1</shortDescription>
+        <value>EBSCO Status Alerts 7</value>
+    </labels>
+    <labels>
+        <fullName>Home_Quick_Help_Label2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Home Quick Help Label2</shortDescription>
+        <value>How do I contact EBSCO Support?</value>
+    </labels>
+    <labels>
+        <fullName>Home_Quick_Help_Label3</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Home Quick Help Label3</shortDescription>
+        <value>International Support Resources</value>
+    </labels>
+    <labels>
+        <fullName>Home_Quick_Help_Label4</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Home Quick Help Label4</shortDescription>
+        <value>Forgot your Password?</value>
+    </labels>
+    <labels>
+        <fullName>Home_Quick_Help_Label5</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Home Quick Help Label5</shortDescription>
+        <value>Tutorials on EBSCO Interfaces</value>
+    </labels>
+    <labels>
+        <fullName>Home_StayConnected</fullName>
+        <categories>Label</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Home_StayConnected</shortDescription>
+        <value>Stay connected with your Cases</value>
+    </labels>
+    <labels>
+        <fullName>Home_StayConnectedMSG</fullName>
+        <categories>Label</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Home_StayConnectedMSG</shortDescription>
+        <value>With one click you can see an overview of all of your library’s cases. Choose your view and get the information you need.</value>
+    </labels>
+    <labels>
+        <fullName>Home_ViewCases</fullName>
+        <categories>Label</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Home_ViewCases</shortDescription>
+        <value>View Cases</value>
+    </labels>
+    <labels>
+        <fullName>Hours_of_Operation</fullName>
+        <categories>Librarians</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Hours of Operation</shortDescription>
+        <value>Hours of operation:</value>
+    </labels>
+    <labels>
+        <fullName>How_to_access_your_ECM_account</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>How to access your ECM account</shortDescription>
+        <value>Minimum Browser Requirements</value>
+    </labels>
+    <labels>
+        <fullName>Industry</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Industry</shortDescription>
+        <value>Industry</value>
+    </labels>
+    <labels>
+        <fullName>Institution_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Institution Name</shortDescription>
+        <value>Institution Name</value>
+    </labels>
+    <labels>
+        <fullName>Institution_Name_Field</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Institution Name Field</shortDescription>
+        <value>Institution Name</value>
+    </labels>
+    <labels>
+        <fullName>Knowledge_Modal_Title</fullName>
+        <categories>Deflection</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Knowledge Modal Title</shortDescription>
+        <value>Title</value>
+    </labels>
+    <labels>
+        <fullName>Last_Name_Field</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Last Name Field</shortDescription>
+        <value>Last Name</value>
+    </labels>
+    <labels>
+        <fullName>Learn_More_Test</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Learn More Test</shortDescription>
+        <value>Learn more about EBSCO Information Services at: &lt;a href=&quot;www.ebsco.com&quot; Style=&quot;text-decoration: none;color:#3E75CF;font-weight: 700;&quot;&gt;www.ebsco.com&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Learn_more</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Learn more</shortDescription>
+        <value>Learn more</value>
+    </labels>
+    <labels>
+        <fullName>Learn_more_about_the_instructors_in_your_region</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Learn more about the instructors in your region</shortDescription>
+        <value>Learn more about the instructors in your region.</value>
+    </labels>
+    <labels>
+        <fullName>Learning_Dashboard</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Learning Dashboard</shortDescription>
+        <value>Learning Dashboard</value>
+    </labels>
+    <labels>
+        <fullName>Librarians_Support_Time</fullName>
+        <categories>Librarians</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Librarians Support Time</shortDescription>
+        <value>Monday-Sunday, 24 hour support</value>
+    </labels>
+    <labels>
+        <fullName>Librarians_Title</fullName>
+        <categories>Librarians</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Librarians Title</shortDescription>
+        <value>Librarians/Account Administrators:</value>
+    </labels>
+    <labels>
+        <fullName>LibraryAwareLabel</fullName>
+        <categories>Label</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>LibraryAwareLabel</shortDescription>
+        <value>Library Aware</value>
+    </labels>
+    <labels>
+        <fullName>Loading</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Loading</shortDescription>
+        <value>Loading</value>
+    </labels>
+    <labels>
+        <fullName>LoginFormMessage</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>LoginFormMessageHeader</shortDescription>
+        <value>Don&apos;t Have an Account?</value>
+    </labels>
+    <labels>
+        <fullName>LoginFormMessageSubHeader</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>LoginFormMessageSubHeader</shortDescription>
+        <value>Please request more information via</value>
+    </labels>
+    <labels>
+        <fullName>LoginFormSubHeaderLink</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>LoginFormSubHeaderLink</shortDescription>
+        <value>Contact Us</value>
+    </labels>
+    <labels>
+        <fullName>Logins</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Logins</shortDescription>
+        <value>Logins</value>
+    </labels>
+    <labels>
+        <fullName>Make_Contact_As_Primary_Notification</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Make Contact As Primary Notification</shortDescription>
+        <value>You are changing the Primary Contact. You can only have one Primary Contact for an institution. Do you want to continue?</value>
+    </labels>
+    <labels>
+        <fullName>Manage_Your_Account</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Manage_Your_Account</shortDescription>
+        <value>Manage Your Account</value>
+    </labels>
+    <labels>
+        <fullName>Manage_Your_Account_Button</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Manage_Your_Account_Button</shortDescription>
+        <value>Edit Account</value>
+    </labels>
+    <labels>
+        <fullName>Manage_Your_Account_Dec</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Manage_Your_Account_Dec</shortDescription>
+        <value>Update your email and other personal information.</value>
+    </labels>
+    <labels>
+        <fullName>Meet_the_Instructors</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Meet the Instructors</shortDescription>
+        <value>Meet the Instructors</value>
+    </labels>
+    <labels>
+        <fullName>Message_Body</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Message Body</shortDescription>
+        <value>Message:</value>
+    </labels>
+    <labels>
+        <fullName>Message_Required</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Message Required</shortDescription>
+        <value>Message field is required</value>
+    </labels>
+    <labels>
+        <fullName>Message_Subject</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Message Subject</shortDescription>
+        <value>Subject:</value>
+    </labels>
+    <labels>
+        <fullName>Migration_Portlet</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Migration Portlet</shortDescription>
+        <value>Transition Center</value>
+    </labels>
+    <labels>
+        <fullName>Migration_Portlet_Button</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Migration Portlet Button</shortDescription>
+        <value>Get started</value>
+    </labels>
+    <labels>
+        <fullName>Migration_Portlet_Desc</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Migration Portlet Desc</shortDescription>
+        <value>We are working hard to update your EBSCO profiles and interfaces and modernize the experience. Learn more about the product transition process and review your status.</value>
+    </labels>
+    <labels>
+        <fullName>Most_Searched_Products</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Most Searched Products</shortDescription>
+        <value>Most Searched Products</value>
+    </labels>
+    <labels>
+        <fullName>My_Settings</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>My_Settings</shortDescription>
+        <value>My Settings</value>
+    </labels>
+    <labels>
+        <fullName>My_Settings_Button</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>My_Settings_Button</shortDescription>
+        <value>Make updates</value>
+    </labels>
+    <labels>
+        <fullName>My_Settings_Des</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>My_Settings_Des</shortDescription>
+        <value>Update your community profile and email settings.</value>
+    </labels>
+    <labels>
+        <fullName>Need</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Need</shortDescription>
+        <value>Need</value>
+    </labels>
+    <labels>
+        <fullName>Need_Quick_Help</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Need Quick Help</shortDescription>
+        <value>Need Quick Help?</value>
+    </labels>
+    <labels>
+        <fullName>NewMessage</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>New Message Button</shortDescription>
+        <value>New</value>
+    </labels>
+    <labels>
+        <fullName>New_Message_Title</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>New Message Title</shortDescription>
+        <value>New Message</value>
+    </labels>
+    <labels>
+        <fullName>News</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>News</shortDescription>
+        <value>News</value>
+    </labels>
+    <labels>
+        <fullName>News_Help_EBSCO</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>News_Help_EBSCO</shortDescription>
+        <value>EBSCO Help: The Year in Review</value>
+    </labels>
+    <labels>
+        <fullName>No_Institutions_found</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No Institutions found</shortDescription>
+        <value>No Institutions found</value>
+    </labels>
+    <labels>
+        <fullName>Occupation_Default_Value</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Occupation Default Value</shortDescription>
+        <value>- Select Your Occupation -</value>
+    </labels>
+    <labels>
+        <fullName>Occupation_Field</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Occupation Field</shortDescription>
+        <value>Occupation</value>
+    </labels>
+    <labels>
+        <fullName>OptInButton_AllowButtonText</fullName>
+        <categories>Account Information</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Allow OptIn button</shortDescription>
+        <value>Allow Consortia Admin to view/edit cases</value>
+    </labels>
+    <labels>
+        <fullName>OptInButton_AllowHelpText</fullName>
+        <categories>Account Information</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Message on &apos;Allow/Disallow&apos; button if you move mouse on it</shortDescription>
+        <value>Submitting this button will allow the consortia head to view/edit all cases and submit cases on your behalf</value>
+    </labels>
+    <labels>
+        <fullName>OptInButton_DisallowButtonText</fullName>
+        <categories>Account Information</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Disallow OptIn button</shortDescription>
+        <value>Disallow Consortia Admin to view/edit cases</value>
+    </labels>
+    <labels>
+        <fullName>OptInButton_DisallowHelpText</fullName>
+        <categories>Account Information</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Message on &apos;Allow/Disallow&apos; button if you move mouse on it</shortDescription>
+        <value>Submitting this button will disallow the consortia head to view/edit all cases and submit cases on your behalf</value>
+    </labels>
+    <labels>
+        <fullName>OptIn_Was_Changed_ToastTitle</fullName>
+        <categories>Account Information</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>OptIn has been successfully changed</shortDescription>
+        <value>Institution&apos;s &apos;{0}&apos; parameter has been changed</value>
+    </labels>
+    <labels>
+        <fullName>Outside_U_S_Canada</fullName>
+        <categories>Librarians</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Outside U.S. Canada</shortDescription>
+        <value>Outside U.S./Canada -00- 800-3272-6000</value>
+    </labels>
+    <labels>
+        <fullName>Password</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Password</shortDescription>
+        <value>Password</value>
+    </labels>
+    <labels>
+        <fullName>Preference_Save_Message</fullName>
+        <categories>HomePage</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Preference Save Message</shortDescription>
+        <value>Your Preferences Saved Successfully</value>
+    </labels>
+    <labels>
+        <fullName>Privacy_Policy</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Privacy Policy</shortDescription>
+        <value>By submitting this form, you acknowledge that EBSCO Information Services will collect and process your personal information in accordance with its &lt;a0&gt;Privacy Policy&lt;/a0&gt;, including the categories and purposes of use for such information as described &lt;a1&gt;here&lt;/a1&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Product_Interface_Default_Value</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Product Interface Default Value</shortDescription>
+        <value>- Choose Product -</value>
+    </labels>
+    <labels>
+        <fullName>Product_Interface_Field</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Product Interface Field</shortDescription>
+        <value>Product</value>
+    </labels>
+    <labels>
+        <fullName>Quick_Help</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Quick Help</shortDescription>
+        <value>Quick Help?</value>
+    </labels>
+    <labels>
+        <fullName>Read_More</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Read More</shortDescription>
+        <value>Read More</value>
+    </labels>
+    <labels>
+        <fullName>Registration_form_addition_text</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Registration form addition text</shortDescription>
+        <value>EBSCO Connect accounts are not intended for individual users. Please contact your library admin if you need assistance.</value>
+    </labels>
+    <labels>
+        <fullName>Request_Your_EBSCO_Connect_Account</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Request Your EBSCO Connect Account</shortDescription>
+        <value>Request Your EBSCO Connect Account</value>
+    </labels>
+    <labels>
+        <fullName>Request_for_an_EBSCO_Connect_Account</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Request for an EBSCO Connect Account</shortDescription>
+        <value>Request for an EBSCO Connect Account</value>
+    </labels>
+    <labels>
+        <fullName>Reset_Password</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Reset Password</shortDescription>
+        <value>Reset Password</value>
+    </labels>
+    <labels>
+        <fullName>Schedule_Transition_Date_Section_Description</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Schedule Transition Date Section Description</shortDescription>
+        <value>On this day your instance of &lt;span&gt;{EBSCO_Product}&lt;/span&gt; will transition to the latest version. If the date provided does not work for your institution, please &lt;a&gt; select a new date.&lt;/a&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Search_Box</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Search Box Builder</shortDescription>
+        <value>Search Box Builder</value>
+    </labels>
+    <labels>
+        <fullName>Search_Box_Builder</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Search Box Builder</shortDescription>
+        <value>Customize your search box size and style to fit your site.</value>
+    </labels>
+    <labels>
+        <fullName>Select_Institution</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Select Institution</shortDescription>
+        <value>Select Institution</value>
+    </labels>
+    <labels>
+        <fullName>Service_EBSCO</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Service_EBSCO</shortDescription>
+        <value>Did-You-Mean Service now available in EBSCOhost</value>
+    </labels>
+    <labels>
+        <fullName>Set_as_Primary_Contact</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Set as Primary Contact</shortDescription>
+        <value>Set as Primary Contact</value>
+    </labels>
+    <labels>
+        <fullName>Sharing_knowledge_Empowering_success</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Sharing knowledge Empowering success</shortDescription>
+        <value>Sharing knowledge. Empowering success.</value>
+    </labels>
+    <labels>
+        <fullName>Sign_In_to_your_Account</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Sign In to your Account</shortDescription>
+        <value>Sign In to your Account</value>
+    </labels>
+    <labels>
+        <fullName>Sincerely</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Sincerely</shortDescription>
+        <value>Sincerely,&lt;br/&gt;
+EBSCO Information Services &lt;br/&gt;&lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Still_having_trouble</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Still having trouble</shortDescription>
+        <value>Have an issue that you can’t seem to find the solution for? We’re here to help!</value>
+    </labels>
+    <labels>
+        <fullName>Student_Navigation_Link</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Student Navigation Link</shortDescription>
+        <value>Find out how to access</value>
+    </labels>
+    <labels>
+        <fullName>Students_Content</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Students Content</shortDescription>
+        <value>Looking for your MyEBSCO&lt;span&gt;host&lt;/span&gt; account or your library&apos;s EBSCO databases?</value>
+    </labels>
+    <labels>
+        <fullName>Students_Header</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Students Header</shortDescription>
+        <value>Students/Patrons</value>
+    </labels>
+    <labels>
+        <fullName>Subject_is_required</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Subject is required</shortDescription>
+        <value>Subject field is required</value>
+    </labels>
+    <labels>
+        <fullName>Submit</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Submit</shortDescription>
+        <value>Submit</value>
+    </labels>
+    <labels>
+        <fullName>Submit_Button</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Submit Button</shortDescription>
+        <value>Submit</value>
+    </labels>
+    <labels>
+        <fullName>Success</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Success</shortDescription>
+        <value>Success</value>
+    </labels>
+    <labels>
+        <fullName>Support_Team</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Support Team</shortDescription>
+        <value>Our support team is working to respond to your case within 24 hours. In the meantime, please know that answers to many product questions can be found in the FAQs, tutorials and user guides on the EBSCO Help site at &lt;a href=&quot;https://connect.ebsco.com&quot; Style=&quot;text-decoration: none;color:#3E75CF;font-weight: 700;&quot;&gt;https://connect.ebsco.com&lt;/a&gt;.</value>
+    </labels>
+    <labels>
+        <fullName>Text_After_Privacy_Policy</fullName>
+        <categories>Privacy Policy</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Text After Privacy Policy</shortDescription>
+        <value>, including the categories and purposes of use for such information as described</value>
+    </labels>
+    <labels>
+        <fullName>Text_Before_Privacy_Policy</fullName>
+        <categories>Privacy Policy</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Text Before Privacy Policy</shortDescription>
+        <value>By submitting this form, you acknowledge that EBSCO Information Services will collect and process your personal information in accordance with its</value>
+    </labels>
+    <labels>
+        <fullName>Text_HIPAA_Privacy_Policy</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Text HIPAA Privacy Policy</shortDescription>
+        <value>Customers requesting support for EBSCO&apos;s medical products are never required to share protected health information, please do not include any when submitting this form.</value>
+    </labels>
+    <labels>
+        <fullName>To</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>To</shortDescription>
+        <value>To:</value>
+    </labels>
+    <labels>
+        <fullName>To_upload_multiple_files_please_use_a_ZIP_file</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>To upload multiple files please use a ZIP file</shortDescription>
+        <value>To upload multiple files please use a ZIP file</value>
+    </labels>
+    <labels>
+        <fullName>Tools_amp_Resources</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Tools &amp;amp; Resources</shortDescription>
+        <value>Tools &amp;amp; Resources</value>
+    </labels>
+    <labels>
+        <fullName>Track_Your_Cases</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Track Your Cases</shortDescription>
+        <value>Track Your Cases</value>
+    </labels>
+    <labels>
+        <fullName>Track_Your_Cases_Dec</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Track_Your_Cases_Dec</shortDescription>
+        <value>Quickly view or update your account&apos;s cases.</value>
+    </labels>
+    <labels>
+        <fullName>Training_Materials</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Training Materials</shortDescription>
+        <value>Training Materials</value>
+    </labels>
+    <labels>
+        <fullName>Transition</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition</shortDescription>
+        <value>Transition</value>
+    </labels>
+    <labels>
+        <fullName>Transition_Back_Text_Link</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition Back Text Link</shortDescription>
+        <value>BACK TO EBSCO TRANSITION CENTER</value>
+    </labels>
+    <labels>
+        <fullName>Transition_Complete</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition Complete</shortDescription>
+        <value>Transition Complete</value>
+    </labels>
+    <labels>
+        <fullName>Transition_Date_Confirm_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition Date Confirm Message</shortDescription>
+        <value>Please use the marketing materials and training to get your users familiar with the new UI. First time users will be presented with a walkthrough when they log-in to the new interface.</value>
+    </labels>
+    <labels>
+        <fullName>Transition_Date_Info_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition Date Info Message</shortDescription>
+        <value>You are attempting to change your transition date too close to your assigned date, please contact your EBSCO rep for assistance</value>
+    </labels>
+    <labels>
+        <fullName>Transition_Date_Section_Created_By_Help_Text</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition Date Section Created By Help Text</shortDescription>
+        <value>Date selected by:</value>
+    </labels>
+    <labels>
+        <fullName>Transition_Date_Section_Date_Help_Text</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition Date Section Date Help Text</shortDescription>
+        <value>Date of planned transition:</value>
+    </labels>
+    <labels>
+        <fullName>Transition_Date_Section_Date_Help_Text_Complete</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition Date Section Date Help Text Complete</shortDescription>
+        <value>Date transition occurred:</value>
+    </labels>
+    <labels>
+        <fullName>Transition_Date_Section_Description_SelectedDate</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition Date Section Description SelectedDate</shortDescription>
+        <value>Please select a new date to complete your transition.</value>
+    </labels>
+    <labels>
+        <fullName>Transition_Date_Section_Help_Text</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition Date Section Help Text</shortDescription>
+        <value>If you have any questions or feedback, please email your EBSCO Sales Representative or you can submit a case to &lt;a&gt;Customer Support&lt;/a&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Transition_Date_Section_Link_Help_Text</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition Date Section Link Help Text</shortDescription>
+        <value>If the date provided does not work for your institution, please</value>
+    </labels>
+    <labels>
+        <fullName>Transition_Date_Section_Link_Text_Complete</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition Date Section Link Text Complete</shortDescription>
+        <value>Return to EBSCO Transition Center</value>
+    </labels>
+    <labels>
+        <fullName>Transition_Date_Section_Title</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition Date Section Title</shortDescription>
+        <value>Schedule your transition date</value>
+    </labels>
+    <labels>
+        <fullName>Transition_Date_Section_Title_Complete</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition Date Section Title Complete</shortDescription>
+        <value>Scheduled transition date</value>
+    </labels>
+    <labels>
+        <fullName>Transition_EBSCO_Discovery_Service</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition EBSCO Discovery Service</shortDescription>
+        <value>EBSCO Discovery Service</value>
+    </labels>
+    <labels>
+        <fullName>Transition_EBSCOhost</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition EBSCOhost</shortDescription>
+        <value>EBSCOhost</value>
+    </labels>
+    <labels>
+        <fullName>Transition_Explora</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition Explora</shortDescription>
+        <value>Explora</value>
+    </labels>
+    <labels>
+        <fullName>Transition_Reference_Center</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition Reference Center</shortDescription>
+        <value>Reference Center</value>
+    </labels>
+    <labels>
+        <fullName>Transition_Status_Help_Text</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition Status Help Text</shortDescription>
+        <value>Status:</value>
+    </labels>
+    <labels>
+        <fullName>Transition_View_Details_Button_Text</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition View Details Button Text</shortDescription>
+        <value>View Details</value>
+    </labels>
+    <labels>
+        <fullName>Transition_in_Process</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Transition in Process</shortDescription>
+        <value>Transition in Process</value>
+    </labels>
+    <labels>
+        <fullName>Translated_Header</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Translated Header</shortDescription>
+        <value>&lt;b&gt;Thank you for contacting EBSCO Information Services for assistance.&lt;/b&gt; Your needs are important to us, and we have assigned the following Case Number to your request:</value>
+    </labels>
+    <labels>
+        <fullName>URLBuilder_Section_Error_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URLBuilder Section Error Message</shortDescription>
+        <value>URL information is currently unavailable. Please try again later or contact customer support.</value>
+    </labels>
+    <labels>
+        <fullName>URLBuilder_Section_Info_Message_Empty_URLs</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URLBuilder Section Info Message Empty URLs</shortDescription>
+        <value>No preview URLs are currently available. For additional information about your account transition please contact Customer Support or your EBSCO Sales Representative.</value>
+    </labels>
+    <labels>
+        <fullName>URLBuilder_Section_Preview_Links_Help_Text</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URLBuilder Section Preview Links Help Text</shortDescription>
+        <value>URL for the customer&apos;s Preview</value>
+    </labels>
+    <labels>
+        <fullName>URLBuilder_Section_Preview_Links_Help_Text_Complete</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URLBuilder Section Preview Links Help Text Complete</shortDescription>
+        <value>URL for the customer&apos;s instance</value>
+    </labels>
+    <labels>
+        <fullName>URLBuilder_Section_Transition_Content</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URLBuilder Section Transition Content</shortDescription>
+        <value>The preview links below provide full access to your unique profile(s). Use these to verify your profile is set-up correctly and provide it to your users so they can try it before your final transition.</value>
+    </labels>
+    <labels>
+        <fullName>URLBuilder_Section_Transition_Content_Complete</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URLBuilder Section Transition Content Complete</shortDescription>
+        <value>Following the transition, you will be able to access all instances unique to your account. Feel free to make this available to your end users to explore and test.</value>
+    </labels>
+    <labels>
+        <fullName>URLBuilder_Section_Transition_Embedded_Content</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URLBuilder Section Transition Embedded Content</shortDescription>
+        <value>We have configured your access to mirror the authentication method(s) you currently use, but we recommend &lt;a&gt; verifying your settings &lt;/a&gt; to ensure everything is correct prior to your final transition date.</value>
+    </labels>
+    <labels>
+        <fullName>URLBuilder_Section_Transition_Group_Name_Col</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URLBuilder Section Transition Group Name Col</shortDescription>
+        <value>Group Name</value>
+    </labels>
+    <labels>
+        <fullName>URLBuilder_Section_Transition_Help_Text</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URLBuilder Section Transition Help Text</shortDescription>
+        <value>To access your profile(s), &lt;a&gt; &lt;span&gt;{URL_Display}&lt;/span&gt;&lt;/a&gt;</value>
+    </labels>
+    <labels>
+        <fullName>URLBuilder_Section_Transition_Profile_ID_Col</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URLBuilder Section Transition Profile ID Col</shortDescription>
+        <value>Profile ID</value>
+    </labels>
+    <labels>
+        <fullName>URLBuilder_Section_Transition_Profile_Name_Col</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URLBuilder Section Transition Profile Name Col</shortDescription>
+        <value>Profile Name</value>
+    </labels>
+    <labels>
+        <fullName>URLBuilder_Section_Transition_Title</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URLBuilder Section Transition Title</shortDescription>
+        <value>Preview your updated interface</value>
+    </labels>
+    <labels>
+        <fullName>URLBuilder_Section_Transition_Title_Complete</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URLBuilder Section Transition Title Complete</shortDescription>
+        <value>Use the new interface</value>
+    </labels>
+    <labels>
+        <fullName>U_S_Canada</fullName>
+        <categories>Librarians</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>U.S./Canada</shortDescription>
+        <value>U.S./Canada - (800)758-5995</value>
+    </labels>
+    <labels>
+        <fullName>Upload_Attachment</fullName>
+        <categories>Contact Support Form</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Upload Attachment</shortDescription>
+        <value>Upload Attachment</value>
+    </labels>
+    <labels>
+        <fullName>Upload_File</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Upload_File</shortDescription>
+        <value>Upload File</value>
+    </labels>
+    <labels>
+        <fullName>Upload_File_Description</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Upload_File_Description</shortDescription>
+        <value>Please choose files from your hard drive. You can upload no more than 10 files.</value>
+    </labels>
+    <labels>
+        <fullName>VIEW_ALL_NEWS</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>VIEW ALL NEWS</shortDescription>
+        <value>VIEW ALL NEWS</value>
+    </labels>
+    <labels>
+        <fullName>View_Cases_Button</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>View_Cases_Button</shortDescription>
+        <value>View cases</value>
+    </labels>
+    <labels>
+        <fullName>View_More</fullName>
+        <categories>Case Message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>View More</shortDescription>
+        <value>View More</value>
+    </labels>
+    <labels>
+        <fullName>View_System_Status_Button</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>View_System_Status_Button</shortDescription>
+        <value>Review statuses</value>
+    </labels>
+    <labels>
+        <fullName>View_System_Statuses</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>View_System_Statuses</shortDescription>
+        <value>View System Statuses</value>
+    </labels>
+    <labels>
+        <fullName>View_System_Statuses_Dec</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>View_System_Statuses_Dec</shortDescription>
+        <value>Having issues? Check the status of our systems in real time.</value>
+    </labels>
+    <labels>
+        <fullName>View_Training_Courses</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>View Training Courses</shortDescription>
+        <value>View Training Courses</value>
+    </labels>
+    <labels>
+        <fullName>Visit_Site</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Visit Site</shortDescription>
+        <value>Visit Site</value>
+    </labels>
+    <labels>
+        <fullName>Visit_dashboard</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Visit dashboard</shortDescription>
+        <value>Visit dashboard</value>
+    </labels>
+    <labels>
+        <fullName>Warning_Activating</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Warning_ActivatingUser_With_Inactive_Contact</shortDescription>
+        <value>The User you are attempting to invite to the EBSCO Connect currently has an inactive contact record. You must first reactivate the Contact record in NetCRM and wait for Salesforce contact record to be updated to active</value>
+    </labels>
+    <labels>
+        <fullName>Warning_Delegated_Admin_User_Activate_Contact_Inactive</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Warning Delegated Admin User Activate Contact Inactive</shortDescription>
+        <value>The User you are attempting to invite to the EBSCO Connect is currently an invalid contact. Please contact Customer Support to have the Contact activated.</value>
+    </labels>
+    <labels>
+        <fullName>Warning_Email_Address_Already_In_Use</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Warning Email Address Already In Use</shortDescription>
+        <value>This email address is already in use!</value>
+    </labels>
+    <labels>
+        <fullName>Warning_Error_Message</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Warning_Error_Message</shortDescription>
+        <value>Please Contact Administrator</value>
+    </labels>
+    <labels>
+        <fullName>Watch_a_Video</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Watch a Video</shortDescription>
+        <value>Watch a Video</value>
+    </labels>
+    <labels>
+        <fullName>Watch_a_Video_Desc</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Watch a Video Desc</shortDescription>
+        <value>Select from our catalog of short videos and instructor-led course recordings.</value>
+    </labels>
+    <labels>
+        <fullName>Watch_a_video_Button</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Watch a video Button</shortDescription>
+        <value>Watch a video</value>
+    </labels>
+    <labels>
+        <fullName>Watch_recordings</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Watch recordings</shortDescription>
+        <value>Watch recordings</value>
+    </labels>
+    <labels>
+        <fullName>Webinar</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Webinar</shortDescription>
+        <value>Online courses provide training and demonstration for users and administrators on a variety of EBSCO products and interfaces. Dozens of new sessions are offered each month.</value>
+    </labels>
+    <labels>
+        <fullName>Webinars</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Webinars</shortDescription>
+        <value>Online Training</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_to_EBSCO_Connect</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome to EBSCO Connect</shortDescription>
+        <value>&lt;div class=&quot;banner&quot; style=&quot; background-color: #002F55; line-height: 1.0em;font-size: 1.2em; color: white; margin-bottom: 40px;padding-top: 2px;&quot;&gt;
+   &lt;span class=&quot;banner-text&quot; style=&quot;padding: 0.4em;font-family: Open Sans;&quot;&gt;EBSCO&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style= &quot;padding-left: 60px;font-family: Open Sans;font-size: 14px;color: #3D3F42&quot;&gt;
+   &lt;h2&gt;Welcome to EBSCO Connect!&lt;/h2&gt;
+   &lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_to_EBSCO_Connect_2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome to EBSCO Connect 2</shortDescription>
+        <value>To confirm your account, please complete your registration below. You must take this action to access your new account.
+   &lt;br/&gt;&lt;br/&gt;
+   Confirm Your &lt;a id=&quot;theLink&quot; style= &quot;color: #3E75CF;font-weight: 700;&quot; name=&quot;theLink&quot; href=&quot;{0}&quot;&gt;Registration&lt;/a&gt;
+   &lt;br/&gt;&lt;br/&gt;  
+   With your new account you can submit a question or issue to Customer Support*, as well as check on the status of your requests.  In addition, you can discover resources to help you get more out of your EBSCO products and services, including product information and training. 
+  &lt;br/&gt;&lt;br/&gt;  
+   We look forward to connecting with you.
+  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+  * Excludes questions related to your Subscription Services (journals and magazines) account.
+&lt;/div&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_to_EBSCO_Connect_3</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome to EBSCO Connect 3</shortDescription>
+        <value>Privacy Policy</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_to_EBSCO_Connect_Subject</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Welcome to EBSCO Connect  Subject</shortDescription>
+        <value>Confirm Your EBSCO Connect Account</value>
+    </labels>
+    <labels>
+        <fullName>WhatIsEBSCOConnect</fullName>
+        <categories>Label</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Need assistance registering?</shortDescription>
+        <value>Need assistance registering?</value>
+    </labels>
+    <labels>
+        <fullName>WhatIsEBSCOConnectURL</fullName>
+        <categories>URL</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>WhatIsEBSCOConnectURL</shortDescription>
+        <value>https://connect.ebsco.com/s/article/EBSCO-Connect-Quick-Start-Guide</value>
+    </labels>
+    <labels>
+        <fullName>Your_Account01</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Your_Account01</shortDescription>
+        <value>Quickly view or update support cases</value>
+    </labels>
+    <labels>
+        <fullName>Your_Account02</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Your_Account02</shortDescription>
+        <value>Update email and other personal information</value>
+    </labels>
+    <labels>
+        <fullName>Your_Account03</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Your_Account03</shortDescription>
+        <value>Connect with peers on EBSCO products and other topics</value>
+    </labels>
+    <labels>
+        <fullName>Your_Account04</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Your_Account04</shortDescription>
+        <value>Tell EBSCO about the topics most relevant to you.</value>
+    </labels>
+    <labels>
+        <fullName>Your_Account_Lets_You</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Your_Account_Lets_You</shortDescription>
+        <value>EBSCO customers and site administrators need a Connect account to:</value>
+    </labels>
+    <labels>
+        <fullName>Your_Account_link</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Your_Account_link</shortDescription>
+        <value>Request your EBSCO Connect account</value>
+    </labels>
+    <labels>
+        <fullName>answer_by_popular_product</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Answers by Popular Product</shortDescription>
+        <value>Answers by Popular Product</value>
+    </labels>
+    <labels>
+        <fullName>having_trouble</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Still having trouble?</shortDescription>
+        <value>Still having trouble?</value>
+    </labels>
+</CustomLabels>

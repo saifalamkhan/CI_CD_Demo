@@ -1,0 +1,108 @@
+*{
+    font-weight: 400;
+    color: white;
+    font-family: 'Noto Sans';
+}
+.academy .webinars, .academy .academy-icon-wrap {
+	text-align: left !important;  
+}
+.academy-wrap{
+    margin: 0px 10px;
+}
+ .academy {
+    opacity: 1;
+    display: flex !important;
+    height: 100%;
+    min-height: 34px;
+    max-width: 1280px;
+    border-radius: 8px;
+    margin: auto;
+    background-color: rgb(68, 95, 135);
+}
+ .academy .webinars{
+    flex:1;
+    max-width: 710px;
+    margin: 30px 30px 30px 0px;
+}
+ .academy .academy-icon-wrap{
+    max-width: 460px;
+}
+ .academy .academy-icon-wrap img{
+    border-radius: 8px;
+    max-width: 460px;
+    max-height: 210px;
+}
+ .academy .webinars .title {
+	font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 10px;
+    display: inline-block;
+    height: auto;
+}
+ .academy .webinars p {
+	font-size: 16px;
+    line-height: 27px;
+	padding-bottom: 20px;
+}
+ .academy .academy-icon-wrap {
+    margin:30px !important;
+}
+ .academy .submit {
+	color: #fff;
+    background-color: rgba(255, 255, 255, 0.15);
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    border-radius: 5px;
+    padding: 0 20px;
+    height: 40px;
+    transition: 300ms ease;
+    font-family: 'Noto Sans Bold';
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -moz-box-shadow:    0px 2px 2px 0px rgba(39, 41, 42, 0.25);
+    -webkit-box-shadow: 0px 2px 2px 0px rgba(39, 41, 42, 0.25);
+    box-shadow:         0px 2px 2px 0px rgba(39, 41, 42, 0.25);
+}
+ .academy button:hover{
+    color:rgb(61, 63, 66);
+    font-family: 'Noto Sans Bold';
+    background-color: rgba(255, 255, 255, 0.9);
+    -moz-box-shadow:    0px 2px 2px 2px rgba(39, 41, 42, 0.3);
+    -webkit-box-shadow: 0px 2px 2px 2px rgba(39, 41, 42, 0.3);
+    box-shadow:         0px 2px 2px 2px rgba(39, 41, 42, 0.3);
+    cursor:pointer;
+}
+@media (min-width: 320px) and (max-width: 879px) {
+     .academy .academy-icon-wrap {	
+        margin: 0px !important;
+        width: 100%;
+        max-width: 100%;
+    }
+     .academy{
+        display: block !important;
+    }
+     .academy .academy-icon-wrap img{
+        max-width: 100%;
+        max-height: 100%;
+        padding: 30px 30px 20px 30px;
+        border-radius: 40px;
+    }
+     .academy .webinars {
+        margin: 0 30px 30px 30px;
+    }
+    .academy-wrap{
+        margin: 0px 30px;
+    }
+}
+@media (min-width: 320px) and (max-width: 509px) {
+    .academy-wrap{
+        margin: 0px 20px;
+    }
+     .academy .webinars .title {
+	    font-size: 20px;
+        line-height: 32px;
+    }
+}

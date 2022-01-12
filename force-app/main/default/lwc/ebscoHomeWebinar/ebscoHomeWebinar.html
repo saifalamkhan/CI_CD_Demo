@@ -1,0 +1,17 @@
+<template>
+    <div class="slds-grid slds-wrap academy-wrap">
+        <div class="academy webinars-tutorials">
+            <div class="academy-icon-wrap tutorials">
+                <img src={imageurl}/>
+            </div>
+            <div class="webinars">
+                <span class="title">{Label.EBSCO_Academy}</span>
+                <p>
+                    {Label.Academy_Description}
+                </p>
+                <button class="submit" onclick={goToCourses}>{Label.EBSCO_Academy_Button}</button>	
+                <!--ui:button class="submit" label="{!$Label.c.EBSCO_Academy_Button}"  press="{!c.goToCourses}"/-->
+            </div>
+        </div>
+    </div>
+</template>

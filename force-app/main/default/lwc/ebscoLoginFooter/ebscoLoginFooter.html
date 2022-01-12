@@ -1,0 +1,33 @@
+<template>
+<template if:true={customSettingsMap}>
+    <div class="footer">
+        <div class="footer-content">
+            <div class="row">
+                <div class="logo"><img src={imageurl}/></div>
+                <div class="footer-menu">
+                    <div id="MenueHeaderId" class="MenueHeaderId"><div class="logins-title">{Label.Logins}&nbsp;</div>
+                        <a class="menu-item" href={customSettingsMap.Home_Footer_EBSCOAdmin.URL__c} target="_blank">{customSettingsMap.Home_Footer_EBSCOAdmin.Link_Label__c}</a><span> | </span>
+                        <a class="menu-item" href={customSettingsMap.Home_Footer_EBSCONET.URL__c} target="_blank">{customSettingsMap.Home_Footer_EBSCONET.Link_Label__c}</a><span> | </span>
+                        <a class="menu-item" href={customSettingsMap.Home_Footer_ECM.URL__c} target="_blank">{customSettingsMap.Home_Footer_ECM.Link_Label__c}</a><span> | </span>
+                        <a class="menu-item" href={customSettingsMap.Home_Footer_LibraryAware.URL__c} target="_blank">{customSettingsMap.Home_Footer_LibraryAware.Link_Label__c}</a>
+                    </div>                 
+                </div>
+            </div>
+            <div class="row">
+            	<div class="copy-right desktop">{Label.All_rights_reserved}</div>
+                <div class="footer-menu">
+                    <div class="social-icons">
+                        <a class="fa fa-facebook-f" href={customSettingsMap.EBSCO_FACEBOOK.URL__c} target="_blank"></a>
+                        <a class="fa fa-twitter" href={customSettingsMap.EBSCO_TWITTER.URL__c} target="_blank"></a>
+                        <a class="fa fa-linkedin" href={customSettingsMap.EBSCO_LINKEDIN.URL__c} target="_blank"></a>
+                        <a class="fa fa-youtube" href={customSettingsMap.EBSCO_YOUTUBE.URL__c} target="_blank"></a>
+                    </div>
+                    <div><a class="gdr" href={customSettingsMap.Home_Footer_GDPR.URL__c} target="_blank">{customSettingsMap.Home_Footer_GDPR.Link_Label__c}</a><span> | </span></div>
+                    <div><a href={customSettingsMap.Home_Footer_Privacy_Policy.URL__c} target="_blank">{Label.Home_Footer_Privacy_Policy}</a></div>      
+                </div>
+            </div>
+            <div class="copy-right mobile">{Label.All_rights_reserved}</div>
+        </div>
+    </div>	
+    </template>
+</template>

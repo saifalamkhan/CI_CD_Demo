@@ -1,0 +1,78 @@
+*{
+    font-family: 'Noto Sans';
+    color: rgb(61, 63, 66);
+    font-weight: 400;
+}
+.quick-help .tutorials {
+    text-align: left!important;
+    margin: 20px auto;
+    display: inline-block;
+    width: 48%;
+    border-radius: 8px;
+    padding: 30px;
+}
+.quick-help .news-section{
+    padding-top: 0px !important;
+}   
+.quick-help {
+    display: flex;
+    justify-content: center;
+    max-width: 1280px;
+    margin: auto;
+}
+.quick-help .tutorials .title {
+	font-size: 24px;
+    line-height: 36px;
+    margin-left: 10px;	   
+}
+.quick-help .tutorials .services {
+    padding: 12px 20px 20px 10px;
+    border-top: 1px solid rgb(68, 95, 135);
+    margin-top: 10px;
+}
+.quick-help .tutorials a {
+	font-size: 16px;
+    line-height: 27px;
+	color: rgb(45, 98, 183);
+	padding: 7px 0;
+	display: block;
+	font-weight: 700;
+    font-family: 'Noto Sans Bold';
+}
+.quick-help .tutorials a:hover, .quick-help .tutorials a:focus{
+    color:  #1D3F75;
+}
+.quick-help .tutorials .all{
+    margin-left: 10px;  
+    font-size: 16px !important;
+    color: rgb(68, 95, 135) !important;
+}
+@media (min-width: 320px) and (max-width: 879px) {
+    .quick-help {
+    	flex-direction: column-reverse;
+        align-items: center;
+	}
+    .quick-help .quick-help-section{
+        margin-bottom: 20px;
+        margin-top: 0px;
+        padding: 0px 30px;
+    }
+    .quick-help .news-section{
+        margin-top: 20px;
+    }
+    .quick-help .tutorials{
+        width: 90%;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+}
+@media (min-width: 320px) and (max-width: 509px){
+    .quick-help .tutorials .title {
+	    font-size: 20px;
+        line-height: 32px;
+    }
+    .quick-help .tutorials{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
