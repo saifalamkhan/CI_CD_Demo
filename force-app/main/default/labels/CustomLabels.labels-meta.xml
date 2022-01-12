@@ -1198,7 +1198,7 @@ Preferred Language: {8}&lt;br/&gt;</value>
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>Home News Label1</shortDescription>
-        <value>Mandatory Update to HTTPS Policy 1</value>
+        <value>Mandatory update to HTTPS Policy 1</value>
     </labels>
     <labels>
         <fullName>Home_News_Label2</fullName>
