@@ -12,6 +12,5 @@
     <members>*</members>
 	<name>LightningComponentBundle</name>
   </types>
-  
   <version>44.0</version>
 </Package>
